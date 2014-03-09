@@ -2,5 +2,5 @@ Test
 ====
 
 foobar
- lorem ipsum
- more stuff
+- lorem ipsum
+- more stuff
