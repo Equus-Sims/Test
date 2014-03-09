@@ -1,6 +1,6 @@
 Test
 ====
 
-foobar
- lorem ipsum
- more stuff
+**foobar**
+- lorem ipsum
+- more stuff
